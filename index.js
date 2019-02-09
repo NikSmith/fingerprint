@@ -155,7 +155,7 @@ function Info() {
         strOnError = "Error";
         canvas = null;
         strCText = null;
-        strText = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ~1!2@3#4$5%6^7&8*9(0)-_=+[{]}|;:',<.>/?";
+        strText = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ`~1!2@3#4$5%6^7&8*9(0)-_=+[{]}|;:',<.>/?";
         strOut = null;
 
         try {
